@@ -42,6 +42,3 @@ The dashboard is designed to work with a WebSocket server for real-time updates.
 - `/src/services` - WebSocket and data services
 - `/src/mockData.js` - Sample data for development
 
-## License
-
-MIT 
